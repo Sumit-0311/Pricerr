@@ -1,0 +1,4 @@
+1. pip install requests
+2. pip install bs4
+
+Make sure the email ID which you use to send the email has 'Less secure app access' turned on
