@@ -24,7 +24,7 @@ def checkPrice():
     print(title.strip())
     print(converted_price)
 
-    if(converted_price > yourPrice):
+    if(converted_price < yourPrice):
         sendMail()
     else:
         print('\nPrice has not dropped below ' + str(yourPrice))

@@ -4,7 +4,7 @@ A simple Python script that tracks a product on any e-commerce website and sends
 
 <h2> To get Started </h2>
 
-1.Clone this repository onto your desktop using the command below
+1. Clone this repository onto your desktop using the command below
 
 ```
 git clone https://github.com/Sumit-0311/Pricerr.git
@@ -24,3 +24,5 @@ pip install bs4
 ```
 python scraper.py
 ```
+
+<h2> Make sure the sender's email has 'Less Secure App Access' enabled </h2>
